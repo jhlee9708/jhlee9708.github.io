@@ -8,15 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  image_size: 150px
   more_info: >
     <p>KAIST E19-522</p>
     <p>Daejeon, Republic of Korea</p>
-    <style>
-      img {
-        width: 200px;
-        height: auto;
-      }
-    </style>
+
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

@@ -11,14 +11,7 @@
       "city": "Yuseong-gu",
       "countryCode": "KR",
       "region": "Daejeon"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "education": [
     {
@@ -27,8 +20,8 @@
       "url": "https://ee.kaist.ac.kr/",
       "studyType": "Ph.D Candidate in Electrical Engineering",
       "startDate": "2019-03",
-      "endDate": "now"
-    }
+      "endDate": "2025-08"
+    },
     {
       "institution": "KAIST",
       "location": "Daejeon, Republic of Korea",
@@ -44,34 +37,27 @@
       "position": "Graduate Student Researcher",
       "url": "https://www.jeongresearch.org/",
       "startDate": "2019-03",
-      "endDate": "now",
-      "summary": "Bio-Integrated Electronics and Systems Lab",
+      "endDate": "2025-08",
+      "summary": "Bio-Integrated Electronics and Systems Lab, School of Electrical Engineering",
       "highlights": ["Wearable and Implantable Device"]
+    },
+    {
+      "name": "Stanford University",
+      "position": "Visiting Student Researcher",
+      "url": "https://baogroup.stanford.edu/",
+      "startDate": "2022-09",
+      "endDate": "2023-02",
+      "summary": "Bao Research Group, Department of Chemical Engineering",
+      "highlights": ["Ingestible Device"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Scholarship",
+      "date": "2015-03",
+      "awarder": "KOSAF",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -99,18 +85,6 @@
         "Quantum Mechanics",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
   "interests": [

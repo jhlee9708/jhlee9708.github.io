@@ -1,12 +1,10 @@
 {
   "basics": {
     "name": "Juhyun Lee",
-    "label": "Scientist",
-    "image": "",
+    "position": "Ph.D Candidate",
+    "affiliation": "School of Electrical Engineering, KAIST",
     "email": "juulee@kaist.ac.kr",
-    "phone": "(912) 123-4567",
-    "url": "https://jhlee9708.github.io",
-    "summary": "Summary",
+    "language": "Korean, English",
     "location": {
       "address": "291 Daehak-ro",
       "postalCode": "34141",

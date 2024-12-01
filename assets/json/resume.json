@@ -15,39 +15,39 @@
   },
   "education": [
     {
-      "institution": "KAIST",
-      "location": "Daejeon, Republic of Korea",
-      "url": "https://ee.kaist.ac.kr/",
+      "institution": "Korea Advanced Institute of Science and Technology",
+      "location": "Daejeon, Republic of Korea",      
       "studyType": "Ph.D Candidate in Electrical Engineering",
+      "url": "https://ee.kaist.ac.kr/",
       "startDate": "2019-03",
-      "endDate": "2025-08"
+      "endDate": "PRESENT"
     },
     {
-      "institution": "KAIST",
-      "location": "Daejeon, Republic of Korea",
-      "url": "https://ee.kaist.ac.kr/",
+      "institution": "Korea Advanced Institute of Science and Technology",
+      "location": "Daejeon, Republic of Korea",      
       "studyType": "BS in Electrical Engineering",
+      "url": "https://ee.kaist.ac.kr/",
       "startDate": "2015-03",
       "endDate": "2019-02"
     }
   ],
   "work": [
     {
-      "name": "KAIST",
-      "position": "Graduate Student Researcher",
-      "url": "https://www.jeongresearch.org/",
+      "name": "Korea Advanced Institute of Science and Technology",
+      "position": "Graduate Student Researcher",      
       "startDate": "2019-03",
-      "endDate": "2025-08",
-      "summary": "Bio-Integrated Electronics and Systems Lab, School of Electrical Engineering",
+      "endDate": "PRESENT",
+      "summary": "Bio-Integrated Electronics and Systems Lab",
+      "url": "https://www.jeongresearch.org/",
       "highlights": ["Wearable and Implantable Device"]
     },
     {
       "name": "Stanford University",
-      "position": "Visiting Student Researcher",
-      "url": "https://baogroup.stanford.edu/",
+      "position": "Visiting Student Researcher",      
       "startDate": "2022-09",
       "endDate": "2023-02",
-      "summary": "Bao Research Group, Department of Chemical Engineering",
+      "summary": "Bao Research Group",
+      "url": "https://baogroup.stanford.edu/",
       "highlights": ["Ingestible Device"]
     }
   ],

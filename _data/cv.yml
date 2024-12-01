@@ -81,6 +81,6 @@
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
 - title: References
-  type: list
+  type: list_groups
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

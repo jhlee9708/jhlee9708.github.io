@@ -99,9 +99,10 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Jae-Woong Jeong",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsu felis varius blandit. D"
+      "reference": "School of Electrical Engineering, KAIST",
+      "url": "https://www.jeongresearch.org/"
     },
     {
       "name": "Professor John Doe",

@@ -38,8 +38,6 @@ layout: default
                 {% include cv/time_table.liquid %}
               {% elsif entry.type == 'list_groups' %}
                 {% include cv/list_groups.liquid %}
-              {% elsif entry.type == 'references' %}
-                {% include cv/reference.liquid %}
               {% else %}
                 {{ entry.contents }}
               {% endif %}

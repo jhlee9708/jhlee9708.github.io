@@ -83,4 +83,8 @@
 - title: References
   type: list_groups
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - icon: Icon1
+      category:
+        - level: level1
+          school: school1
+          time: time1

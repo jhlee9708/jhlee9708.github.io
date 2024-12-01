@@ -39,7 +39,7 @@ layout: default
               {% elsif entry.type == 'list_groups' %}
                 {% include cv/list_groups.liquid %}
               {% elsif entry.type == 'references' %}
-                {% include resume/references.liquid %}
+                {% include cv/reference.liquid %}
               {% else %}
                 {{ entry.contents }}
               {% endif %}

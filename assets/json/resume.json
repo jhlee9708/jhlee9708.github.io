@@ -1,5 +1,5 @@
 {
-  "general information": {
+  "basic": {
     "name": "Juhyun Lee",
     "position": "Ph.D Candidate",
     "affiliation": "School of Electrical Engineering, KAIST",
@@ -31,7 +31,7 @@
       "endDate": "2019-02"
     }
   ],
-  "experience": [
+  "work": [
     {
       "name": "Korea Advanced Institute of Science and Technology",
       "position": "Graduate Student Researcher",     
@@ -85,7 +85,7 @@
       "awarder": "KAIST"
     }
   ],
-  "selected publications": [
+  "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",

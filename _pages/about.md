@@ -7,8 +7,8 @@ subtitle: Ph.D candidate at Korea Advanced Institute of Science and Technology (
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  image_size: 150px
+  image_circular: true # crops the image to make it circular
+  image_size: 120px
   more_info: >
     <p>KAIST E19-522</p>
     <p>Daejeon, Republic of Korea</p>

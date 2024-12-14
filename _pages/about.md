@@ -7,10 +7,9 @@ subtitle: Ph.D candidate at Korea Advanced Institute of Science and Technology (
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   image_size: 150px
   more_info: >
-    <p>KAIST E19-522</p>
     <p>Daejeon, Republic of Korea</p>
 
 
@@ -18,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 
 Hi, I'm Juhyun Lee, PhD candidate at [KAIST EE](https://ee.kaist.ac.kr/) advised by [Prof. Jae-Woong Jeong](https://www.jeongresearch.org/).
 I received BS in Electrical Engineering from KAIST in 2019.

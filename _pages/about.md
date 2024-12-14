@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  image_size: 120px
+  image_size: 150px
   more_info: >
     <p>KAIST E19-522</p>
     <p>Daejeon, Republic of Korea</p>
@@ -19,13 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Juhyun Lee, Ph.D candidate at [KAIST EE](https://ee.kaist.ac.kr/).
+Hi, I'm Juhyun Lee, PhD candidate at [KAIST EE](https://ee.kaist.ac.kr/) advised by [Prof. Jae-Woong Jeong](https://www.jeongresearch.org/).
+I received BS in Electrical Engineering from KAIST in 2019.
 
-I'm working on ~~~ under the supervision of [Prof. Jae-Woong Jeong](https://www.jeongresearch.org/).
+My research focuses on developing neural interface to advance neuroscience and medicine.
+I have extensive experience in system implementation based on microfabrication, circuit design, and embedded programming skills.
 
-'Website not ready!'
+In the past, I developed a [wireless optogenetic neural probe](https://www.nature.com/articles/s41596-022-00758-8) and a [wireless EMG patch](https://www.science.org/doi/10.1126/sciadv.adk5260).
+Currently, I'm working on devices for various sensing modalities including electrical, chemical, and optical, which can be utilized for more comprehensive neuroscience research.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
-
+'Website under construction!'

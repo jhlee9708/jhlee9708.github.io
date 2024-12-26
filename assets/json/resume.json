@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Juhyun Lee",
-    "position": "Ph.D Candidate",
+    "position": "PhD Candidate",
     "affiliation": "School of Electrical Engineering, KAIST",
     "email": "juulee@kaist.ac.kr",
     "language": "Korean, English",
@@ -17,10 +17,11 @@
     {
       "institution": "Korea Advanced Institute of Science and Technology",
       "location": "Daejeon, KR",      
-      "studyType": "Ph.D Candidate in Electrical Engineering",
+      "studyType": "PhD Candidate in Electrical Engineering",
       "url": "https://ee.kaist.ac.kr/",
       "startDate": "2019-03",
       "endDate": "PRESENT"
+      "highlights": "GPA: 4.08/4.3"
     },
     {
       "institution": "Korea Advanced Institute of Science and Technology",
@@ -28,7 +29,8 @@
       "studyType": "BS in Electrical Engineering",
       "url": "https://ee.kaist.ac.kr/",
       "startDate": "2015-03",
-      "endDate": "2019-02"
+      "endDate": "2019-02",
+      "highlights": "Cum Laude, GPA: 3.79/4.3"
     }
   ],
   "work": [
@@ -38,7 +40,7 @@
       "location": "Daejeon, KR", 
       "startDate": "2019-03",
       "endDate": "PRESENT",
-      "summary": "Bio-Integrated Electronics and Systems Lab",
+      "summary": "[Bio-Integrated Electronics and Systems Lab](https://www.jeongresearch.org/)",
       "url": "https://www.jeongresearch.org/",
       "highlights": ["Wearable and Implantable Device"]
     },
@@ -48,7 +50,7 @@
       "location": "Stanford, CA", 
       "startDate": "2022-09",
       "endDate": "2023-02",
-      "summary": "Bao Research Group",
+      "summary": "[Bao Research Group](https://baogroup.stanford.edu/)",
       "url": "https://baogroup.stanford.edu/",
       "highlights": ["Ingestible Device"]
     }
@@ -67,13 +69,8 @@
     {
       "title": "Outstanding Teaching Assistant Award",
       "date": "2021-04",
-      "awarder": "KAIST"
+      "awarder": "KAIST EE"
     },    
-    {
-      "title": "Government-Sponsored Scholarship",
-      "date": "2019-03",
-      "awarder": "KAIST"
-    },
     {
       "title": "Cum Laude",
       "date": "2019-02",
@@ -81,7 +78,7 @@
     },
     {
       "title": "National Scholarship for Science and Engineering",
-      "date": "2015-03",
+      "date": "2017-03",
       "awarder": "KOSAF"
     }
   ],

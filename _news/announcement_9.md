@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have started my research as a visiting student at [Bao group, Stanford University]() for six months (~ 02/28/2023). [Science Advances](https://baogroup.stanford.edu/).
+I have started my research as a visiting student at [Bao group, Stanford University]() for six months (~ 02/28/2023).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on 3D-printed optogenetic neural probes has been published in [Nature Protocols](https://www.nature.com/articles/s41596-022-00758-8).
+Our work on 3D-printed optogenetic neural probes is now available online in [Nature Protocols](https://www.nature.com/articles/s41596-022-00758-8).

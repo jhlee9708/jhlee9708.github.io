@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started MS-PhD program at School of Electrical Engineering, KAIST 🇰🇷 :sparkles: :smile:
+I started MS-PhD program at School of Electrical Engineering, KAIST ✨ 😄

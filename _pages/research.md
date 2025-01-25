@@ -17,7 +17,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Link1</p>
-  - align: left
+  - align: right
     image: research2.jpg
     content: research2.md
     image_circular: false # crops the image to make it circular

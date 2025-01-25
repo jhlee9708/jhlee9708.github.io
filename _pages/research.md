@@ -23,3 +23,10 @@ profiles:
     more_info: >
       <p>Link1, Link2</p>
 ---
+
+<style>
+    .profile-image {
+        height: 200px; 
+        object-fit: cover; 
+    }
+</style>

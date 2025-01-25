@@ -12,16 +12,15 @@ profiles:
   - align: right
     image: research1.jpg
     content: research1.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Link1</p>
-      <p>Link2</p>
   - align: left
     image: research2.jpg
     content: research2.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Link1, Link2</p>
+      <p>Link1</p>
 ---
 
 <style>

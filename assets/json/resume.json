@@ -84,6 +84,13 @@
   ],
   "publications": [
     {
+      "name": "Wireless technologies for wearable electronics: A review",
+      "publisher": "Advanced Electronic Materials",
+      "releaseDate": "2025",
+      "url": "https://jhlee9708.github.io/publications/",
+      "summary": "Wearable electronics"
+    },
+    {
       "name": "Skin preparation-free, stretchable microneedle adhesive patches for reliable electrophysiological sensing and exoskeleton robot control",
       "publisher": "Science Advances",
       "releaseDate": "2024-01",

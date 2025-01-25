@@ -16,13 +16,13 @@ profiles:
     content: research1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Link1</p>
+      <p>Nat. Protoc. (2023)</p>
   - align: right
     image: research2.jpg
     content: research2.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Link1</p>
+      <p>Sci. Adv. (2024)</p>
 ---
 
 <style>

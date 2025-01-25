@@ -474,11 +474,11 @@ footer.sticky-bottom {
 
   .card {
     background-color: var(--global-card-bg-color);
-    border: 1px solid var(--global-divider-color);
+    border: 1px solid var(--global-divider2-color);
 
     .list-group-item {
       background-color: inherit;
-      border-color: var(--global-divider-color);
+      border-color: var(--global-divider2-color);
 
       .badge {
         color: var(--global-card-bg-color) !important;
@@ -735,6 +735,7 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bolder;
         }
 
         > span.more-authors {

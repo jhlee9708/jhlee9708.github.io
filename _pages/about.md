@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  image_size: 150px
+  image_size: 130px
   more_info: >
     <p>Daejeon, Republic of Korea</p>
 
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, I'm Juhyun Lee, PhD candidate at [KAIST EE](https://ee.kaist.ac.kr/) advised by [Prof. Jae-Woong Jeong](https://www.jeongresearch.org/).
+Hi, I'm **Juhyun Lee**, PhD candidate at [KAIST EE](https://ee.kaist.ac.kr/) advised by [Prof. Jae-Woong Jeong](https://www.jeongresearch.org/).
 I received BS in Electrical Engineering from KAIST in 2019.
 
 My research focuses on developing neural interface to advance neuroscience and medicine.
@@ -27,5 +27,3 @@ I have extensive experience in system implementation based on microfabrication, 
 
 In the past, I developed a [wireless optogenetic neural probe](https://www.nature.com/articles/s41596-022-00758-8) and a [wireless EMG patch](https://www.science.org/doi/10.1126/sciadv.adk5260).
 Currently, I'm working on devices for various sensing modalities including electrical, chemical, and optical, which can be utilized for more comprehensive neuroscience research.
-
-'Website under construction!'

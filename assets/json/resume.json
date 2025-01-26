@@ -33,7 +33,7 @@
       "highlights": "Cum Laude, GPA: 3.79/4.3"
     }
   ],
-  "work": [
+  "research experience": [
     {
       "name": "Korea Advanced Institute of Science and Technology",
       "position": "Graduate Student Researcher",     
@@ -55,7 +55,7 @@
       "highlights": ["Ingestible Device"]
     }
   ],
-  "awards": [
+  "awards and honors": [
     {
       "title": "Graduate Student Outstanding Paper Award",
       "date": "2024-11",
@@ -82,7 +82,7 @@
       "awarder": "KOSAF"
     }
   ],
-  "publications": [
+  "selected publications": [
     {
       "name": "Wireless technologies for wearable electronics: A review",
       "publisher": "Advanced Electronic Materials",
@@ -155,16 +155,6 @@
       "name": "Professor XX",
       "icon": "fa-solid fa-thumbtack",
       "reference": "XX"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }

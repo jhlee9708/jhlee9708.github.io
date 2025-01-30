@@ -13,9 +13,9 @@
     </style>
 </head>
 <body>
-    <span class="custom-color">Neural Implants <br></span>
+    <span class="custom-color">Neural Interfaces <br></span>
 </body>
 </html>
 
-Introduce my [implantabale devices](https://jhlee9708.github.io/research/). <br>
+Introduce my neural interfaces: [optogenetic neural probes](https://jhlee9708.github.io/research/). <br>
 Optogenetics, multifunctional, brain...

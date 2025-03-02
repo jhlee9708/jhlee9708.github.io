@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our review of wireless wearable electronics is published in [Advanced Electronic Materials](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202400884)!
+Our review of wireless wearable electronics has been published in [Advanced Electronic Materials](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202400884)!
